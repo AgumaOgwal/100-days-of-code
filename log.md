@@ -28,3 +28,14 @@ I used the openpyxl library to succesfully read a file.
 I basically want a site that'll help me with any daily challenges I decide to take on after this.
 
 **Link(s) to work**: my Github repo for now..
+
+### Day 4: March 14, 2019
+##### 
+
+**Today's Progress**: Added content to my page, a body header of sorts and two cards.
+
+**Thoughts**: It's starting to come to life! Bootstrap makes it all very beautiful very easily. I've added two cards to represent the challenges I'm currently working on.
+
+Note: I will give a detailed explanation of what I hope to achieve with this project later on..
+
+**Link(s) to work**: N/A for now
