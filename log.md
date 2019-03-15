@@ -48,4 +48,6 @@ Note: I will give a detailed explanation of what I hope to achieve with this pro
 **Thoughts**: I can now see what this project will be about. Helping me manage and keep track of any #100DaysOfX challenges IO decide to take in the future. I might decide to do #100DaysOfMusic or #100DaysOfWriting.
 Or any other time-bound challenges that might not be part of this series
 
-**Link(s) to work**: N/A for now
+Misc: It appears github is not counting my commits and it shows my name twice. I need to investigate and fix this.
+
+**Link(s) to work**:
