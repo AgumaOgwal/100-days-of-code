@@ -50,4 +50,6 @@ Or any other time-bound challenges that might not be part of this series
 
 Misc: It appears github is not counting my commits and it shows my name twice. I need to investigate and fix this.
 
+Update: I've edited local git config. Hopefully this should be fine now.
+
 **Link(s) to work**:
