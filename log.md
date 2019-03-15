@@ -39,3 +39,13 @@ I basically want a site that'll help me with any daily challenges I decide to ta
 Note: I will give a detailed explanation of what I hope to achieve with this project later on..
 
 **Link(s) to work**: N/A for now
+
+### Day 5: March 15, 2019
+##### 
+
+**Today's Progress**: Created a new form to allow the addition of a new challenge
+
+**Thoughts**: I can now see what this project will be about. Helping me manage and keep track of any #100DaysOfX challenges IO decide to take in the future. I might decide to do #100DaysOfMusic or #100DaysOfWriting.
+Or any other time-bound challenges that might not be part of this series
+
+**Link(s) to work**: N/A for now
